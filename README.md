@@ -1,0 +1,1 @@
+This module exposed me to Big Data and the technologies associated with it. Due to size constraints, original data sets are not included in this repository, and explanation of the Map Reduce jobs is provided in the Report.pdf file
